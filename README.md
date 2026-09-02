@@ -23,10 +23,14 @@ Data Structures
 Object-Oriented Programming
 Git & GitHub
 
-Team Members
+Team Members-
+
 Diwas Thapa
+
 Akshat Taneja
+
 Aditya Darshan
+
 
 Project Status
 
